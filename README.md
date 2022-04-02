@@ -1,4 +1,4 @@
-### Hey, I'm Zeptar!
+## Hey, I'm Zeptar!
 
 **About Me**
 
