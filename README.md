@@ -1,6 +1,5 @@
 ## 👋 Hey, I'm Zeptar!
-
-**About Me**
+### About Me
 
 I like to code, and program. My favorite coding language is JavaScript.
 I have a Discord bot called Keppy.
