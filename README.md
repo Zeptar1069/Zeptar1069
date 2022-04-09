@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 <div align='center'>
   <h1>👋 Hey, I'm Zeptar!</h1>
   <h3>About Me</h3>
@@ -11,5 +9,3 @@
     <img src="https://lanyard.cnrad.dev/api/893211748767768606" alt="Discord Presence"></img>
   </a>
 </div>
-
-![Footer](./footer.png)
