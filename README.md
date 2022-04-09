@@ -5,4 +5,4 @@ I like to code, and program. My favorite coding language is JavaScript.
 I have a Discord bot called Keppy.
 
 [![Discord Presence 1](https://lanyard.cnrad.dev/api/893211748767768606)](https://discord.com/users/893211748767768606)
-[![Discord Presence 2](https://discord.c99.nl/widget/theme-3/893211748767768606.png)(https://discord.com/users/893211748767768606)
+[![Discord Presence 2](https://discord.c99.nl/widget/theme-3/893211748767768606.png)](https://discord.com/users/893211748767768606)
