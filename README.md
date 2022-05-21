@@ -23,4 +23,7 @@
   <a href="https://discord.com/api/oauth2/authorize?client_id=933133176145080340&permissions=8&scope=bot%20applications.commands">
     <img title="Keppy" src="https://i.ibb.co/803cN4y/image.png">
   </a>
+  <a href="https://zeptar1069.github.io">
+    <img title="Portofolio" src="https://i.ibb.co/xfKyktq/image-1.png">
+  </a>
 </p>
