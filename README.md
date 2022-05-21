@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h4 align="center">Hey, I'm Zeptar! Glad to see you here! I'm a newbie developer from New Zealand. 🇳🇿</h4>
+<h4 align="center">Hey, I'm Zeptar! Glad to see you here! I'm a newbie developer from New Zealand.</h4>
 
 ----
 
