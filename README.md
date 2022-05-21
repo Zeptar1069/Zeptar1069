@@ -14,4 +14,11 @@
   </a>
 </p>
 
+<h4 align="center">
+  Hey, I'm Zeptar! Glad to see you here! I'm a newbie developer from New Zealand.
+  <a href="/">
+    <img src="https://www.kindpng.com/picc/m/463-4633158_new-zealand-map-png-transparent-png.png">
+  </a>
+ </h4>
+
 ----
