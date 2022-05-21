@@ -14,12 +14,13 @@
   </a>
 </p>
 
+<h4 align="center">Hey, I'm Zeptar! Glad to see you here! I'm a newbie developer from New Zealand. 🇳🇿</h4>
+
 ----
 
-<h4 align="center">Hey, I'm Zeptar! Glad to see you here! I'm a newbie developer from New Zealand. 🇳🇿</h4>
-<br>
-<p>
-  My projects: <a href="https://discord.com/api/oauth2/authorize?client_id=933133176145080340&permissions=8&scope=bot%20applications.commands">
+<h4 align="center">My projects</h4>
+<p align="center">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=933133176145080340&permissions=8&scope=bot%20applications.commands">
     <img title="Keppy" src="https://i.ibb.co/803cN4y/image.png">
   </a>
 </p>
