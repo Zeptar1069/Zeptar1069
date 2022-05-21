@@ -1,4 +1,3 @@
-----
 <p align="center">
   <a href="discord.com/users/893211748767768606">
     <img title="Discord Profile" src="https://discord.c99.nl/widget/theme-3/893211748767768606.png">
@@ -14,3 +13,4 @@
     <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCIpThIKqMh0LQ01ThN4mikA?label=YouTube&logo=youtube&logoColor=fafafa&style=flat&color=347deb">
   </a>
 </p>
+----
