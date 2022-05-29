@@ -3,7 +3,7 @@
     <img title="Discord Profile" src="https://discord.c99.nl/widget/theme-3/893211748767768606.png">
   </a>
   <br>
-  <a href="/">
+  <a href="">
     <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Zeptar1069&color=347deb">
   </a>
   <a href="https://discord.gg/Y8xC3PrH9m">
@@ -33,7 +33,7 @@
 <h3 align="center">
   Tools / Apps that I use
   <br><br>
-  <a href="/">
+  <a href="">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
