@@ -3,7 +3,7 @@
     <img title="Discord Profile" src="https://discord.c99.nl/widget/theme-3/893211748767768606.png">
   </a>
   <br>
-  <a href="">
+  <a href="https://github.com/Zeptar1069">
     <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Zeptar1069&color=347deb">
   </a>
   <a href="https://discord.gg/Y8xC3PrH9m">
