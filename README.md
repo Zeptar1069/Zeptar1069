@@ -23,7 +23,7 @@
   <a href="https://discord.com/api/oauth2/authorize?client_id=933133176145080340&permissions=8&scope=bot%20applications.commands">
     <img title="Keppy" src="https://i.ibb.co/803cN4y/image.png">
   </a>
-  <a href="https://zeptar1069.github.io">
+  <a href="https://zeptar.is-a.dev">
     <img title="Portofolio" src="https://i.ibb.co/xfKyktq/image-1.png">
   </a>
 </p>
@@ -31,6 +31,16 @@
 ----
 
 <h3 align="center">
-  Tools / Apps that I use </>
+  Tools / Apps that I use
   <br><br>
+  <a href="https://github.com/Zeptar1069/">
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
 </h3>
+
