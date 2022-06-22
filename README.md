@@ -21,7 +21,7 @@
 <h3 align="center">My projects</h4>
 <p align="center">
   <a href="https://discord.com/api/oauth2/authorize?client_id=933133176145080340&permissions=8&scope=bot%20applications.commands">
-    <img title="Bubbly" src="https://i.ibb.co/9yhkfrJ/image-3.png">
+    <img title="Bubbly" src="https://i.ibb.co/YcKMRdb/image-4.png">
   </a>
   <a href="https://zeptar.is-a.dev">
     <img title="Portofolio" src="https://i.ibb.co/NTvTvMj/image.png">
