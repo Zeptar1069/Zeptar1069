@@ -24,7 +24,7 @@
     <img title="Keppy" src="https://i.ibb.co/803cN4y/image.png">
   </a>
   <a href="https://zeptar.is-a.dev">
-    <img title="Portofolio" src="https://i.ibb.co/xfKyktq/image-1.png">
+    <img title="Portofolio" src="https://i.ibb.co/NTvTvMj/image.png">
   </a>
 </p>
 
