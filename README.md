@@ -23,6 +23,8 @@
   <a href="https://discord.com/api/oauth2/authorize?client_id=933133176145080340&permissions=8&scope=bot%20applications.commands">
     <img title="Bubbly" src="https://i.ibb.co/qWKKFqZ/image-5.png">
   </a>
+</p>
+<p align="center">
   <a href="https://zeptar.is-a.dev">
     <img title="Portofolio" src="https://i.ibb.co/F8tQHDt/image-1.png">
   </a>
